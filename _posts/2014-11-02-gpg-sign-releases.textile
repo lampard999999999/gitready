@@ -4,6 +4,8 @@ title: "gpg-sign releases"
 category: advanced
 ---
 
+_Update_: The Git Book now has a "chapter on GPG-signing":https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work which is also quite good.
+
 This is a guest post from "Ryan Brown.":http://rsb.io/
 
 As a developer you use code written by other people _all the time_. To keep upstream changes from breaking your code, you depend on release numbers. Libraries like "bootstrap":https://github.com/twbs/bootstrap use "git tags":http://gitready.com/beginner/2009/02/03/tagging.html to track releases and make them available for download.
